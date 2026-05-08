@@ -19,7 +19,7 @@ CSV Dataset
 
 ### Retail Business Performance Analytics
 
-![Retail Dashboard](https://raw.githubusercontent.com/StojkoskiT/retail-business-performance-analytics/main/images/dashboard_preview.JPG)
+![Retail Dashboard](https://github.com/StojkoskiT/retail-business-performance-analytics/blob/main/images/dashboard_preview1.JPG)
 
 End-to-end retail analytics platform using SQL Server and Power BI for KPI analysis and business intelligence reporting.
 
@@ -36,7 +36,7 @@ End-to-end retail analytics platform using SQL Server and Power BI for KPI analy
 
 ### HR Workforce Analytics Dashboard
 
-![HR Dashboard](https://raw.githubusercontent.com/StojkoskiT/hr-workforce-analytics-dashboard/main/images/dashboard_preview1.JPG)
+![HR Dashboard](https://github.com/StojkoskiT/hr-workforce-analytics-dashboard/blob/main/images/dashboard_preview.JPG)
 
 Interactive HR analytics dashboard focused on employee attrition and workforce insights.
 
