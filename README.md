@@ -1,38 +1,52 @@
 # Trpo Stojkoski
 
-**Data Analyst & Machine Learning Practitioner**  
-SQL • Power BI • Python • Business Intelligence • Machine Learning
+## Data Analytics & Business Intelligence | SQL • Power BI • Python • Machine Learning
 
-I build practical data analytics and machine learning projects focused on business problems, including SQL analytics, Power BI dashboards, KPI reporting, customer churn, credit risk modeling, and data-driven decision support.
+I build business-focused analytics and machine learning projects using SQL, Power BI, Python, and data visualization to solve real-world business problems.
 
 ---
+## Analytics Workflow
+
+```text
+CSV Dataset
+→ SQL Server
+→ Data Cleaning & Transformation
+→ Business Analysis
+→ Power BI Dashboard
+```
 
 ## Featured Projects
 
 ### Retail Business Performance Analytics
 
-End-to-end business intelligence project using SQL Server and Power BI.
+![Retail Dashboard](https://raw.githubusercontent.com/StojkoskiT/retail-business-performance-analytics/main/images/dashboard_preview.JPG)
 
-- Imported raw retail sales data into SQL Server
-- Created SQL validation, cleaning, and analytical tables
-- Built business KPI analysis for sales, profit, orders, and margin
-- Designed an interactive Power BI dashboard for retail performance analysis
+End-to-end retail analytics platform using SQL Server and Power BI for KPI analysis and business intelligence reporting.
 
-**Tech:** SQL Server, SSMS, Power BI, Git, GitHub  
+**Key Features**
+- SQL data ingestion and cleaning
+- Business KPI analysis
+- Interactive Power BI dashboard
+- Sales, profit, and regional analytics
+
+**Tech:** SQL Server, Power BI, Git, SSMS
 **Repo:** https://github.com/StojkoskiT/retail-business-performance-analytics
 
 ---
 
 ### HR Workforce Analytics Dashboard
 
+![HR Dashboard](https://raw.githubusercontent.com/StojkoskiT/hr-workforce-analytics-dashboard/main/images/dashboard_preview1.JPG)
+
 Interactive HR analytics dashboard focused on employee attrition and workforce insights.
 
-- Analyzed employee attrition, overtime, department trends, and salary distribution
-- Built SQL validation and clean analytical table
-- Created Power BI dashboard with HR KPIs and slicers
-- Used DAX measures for attrition count, attrition rate, average income, and employee metrics
+**Key Features**
+- Employee attrition analysis
+- Workforce KPI reporting
+- HR analytics dashboard with DAX measures
+- Department, overtime, and salary analysis
 
-**Tech:** SQL Server, Power BI, DAX, Git, GitHub  
+**Tech:** SQL Server, Power BI, DAX, Git, GitHub 
 **Repo:** https://github.com/StojkoskiT/hr-workforce-analytics-dashboard
 
 ---
@@ -91,7 +105,7 @@ Data analysis project focused on job market trends and salary insights.
 
 ## Current Focus
 
-I am currently focused on strengthening my portfolio for Data Analyst, BI Analyst, and Junior Data Scientist roles by building practical business analytics and machine learning projects.
+I am currently focused on strengthening my portfolio for Data Analyst, BI Analyst, Reporting Analyst, and Junior Data Scientist roles by building practical business analytics and machine learning projects.
 
 ---
 
